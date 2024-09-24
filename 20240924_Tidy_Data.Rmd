@@ -1,0 +1,36 @@
+---
+title: "Tidy Data Class"
+author: "Kaleb J. Frierson"
+date: "2024-09-24"
+output: 
+  github_document: 
+    toc: TRUE
+---
+
+# Class Notes
+
+Tidy data: 
+
+What is it? 
+
+An example of non tidy data is when treatment a and treatment b are variables and there are counts of each instead of variable treatment with options a or b. 
+
+Relational data: 
+  
+  Data spread across tables with defined relations. Variables used to define
+  these relations are keys. 
+  
+  Inner joins looks for overlap. Outer joins has x and brings in everything from 
+  y. They can be left, right, or full. 
+  
+  They're called relational because they relate to each other through at least     one variable. 
+  
+Key functions: 
+
+pivot_longer, seperate (single column with many variables), pivot_wider from long table format, bind_rows, *_join: 
+
+#Coding
+
+
+
+
