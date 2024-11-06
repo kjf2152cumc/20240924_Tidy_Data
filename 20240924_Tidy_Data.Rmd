@@ -122,7 +122,7 @@ litters_df =
 ```
 case match requires you to list all options and name what they will be. You can also add a bonus for missing. Case when is more flexible. 
 
-## Pivot Wider
+## Pivot Wider(S)
 
 Now lets make an analysis result table: 
 
